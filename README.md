@@ -49,6 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Brayandev0/Brayandev0/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Brayandev0/Brayandev0/blob/output/snake.svg" alt="Snake animation" />
 
 ###
