@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Tenho diversas habilidades em Python, MySQL, Redes , Bash e Sqlite. Possuo conhecimento intermediário em inglês e experiência com Django, PySide6 e Docker. Sou apaixonado por tecnologia e estou sempre em busca de aprender e me aprimorar.</p>
+<p align="left">Tenho diversas habilidades em Python, MySQL, Redes , Bash e Sqlite. Possuo conhecimento intermediário em inglês e experiência com Django, PySide6 , Docker e Flask. Sou apaixonado por tecnologia e estou sempre em busca de aprender e me aprimorar.</p>
 
 ###
 
