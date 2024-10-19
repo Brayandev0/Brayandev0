@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Tenho diversas habilidades em Python, MySQL, Redes , Bash e Sqlite. Possuo conhecimento intermediário em inglês e experiência com Django, PySide6 , Docker e Flask. Sou apaixonado por tecnologia e estou sempre em busca de aprender e me aprimorar.</p>
+<p align="left">Tenho diversas habilidades em Python, MySQL, Redes , Bash e Sqlite. Possuo conhecimento intermediário em inglês e experiência com Django, PySide6 ,SQL, Docker e Flask. Sou apaixonado por tecnologia e estou sempre em busca de aprender e me aprimorar.</p>
 
 ###
 
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  
 </div>
 
 ###
