@@ -7,7 +7,7 @@
 <h1 align="center">Olá!, Eu sou o Brayan</h1>
 
 ###
-<p align="left">Tenho boas habilidades com Python, MySQL, Redes, C#-Dotnet e SQLite. Também tenho um conhecimento intermediário de inglês e Possuo muito experiencia com Django, Flask, PySide6, SQL e Docker, sempre com foco em backend.Estou me especializando em HTML e CSS também, mas meu interesse maior é no desenvolvimento backend. Sou apaixonado por tecnologia e estou sempre buscando aprender mais e melhorar minhas habilidades.</p>
+<p align="left">Tenho boas habilidades com Python, MySQL, Redes, C#-Dotnet e SQLite, Java Script-Node.js e Next.Js, tambem possuo conhecimento com a biblioteca express Js. Também tenho um conhecimento intermediário de inglês e Possuo muito experiencia com Django, Flask, PySide6, SQL e Docker, Asp.net API e modelo MVC, sempre com foco em backend.Estou me especializando em HTML e CSS também, mas meu interesse maior é no desenvolvimento backend. Sou apaixonado por tecnologia e estou sempre buscando aprender mais e melhorar minhas habilidades.</p>
 
 ###
 
