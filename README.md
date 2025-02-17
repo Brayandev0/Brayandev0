@@ -39,8 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="40" alt="dotnet logo" />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/npm/devicons@2.0.0/!svg/aspnetcore.svg" height="40" alt="aspnetcore logo" />
+
 
   
 </div>
