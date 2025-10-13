@@ -27,9 +27,10 @@
 <div align="left">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,docker,cs,ts,py,qt,flask,django,bash,mysql,sql,sqlite,nextjs,react,vue,tailwind,js,aws,cloudflare,css,dotnet,express,linux,nginx" />
   </a>
 </p>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
