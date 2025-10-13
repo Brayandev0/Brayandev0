@@ -8,8 +8,11 @@
 
 ###
 <p align="left">
-Sou um Desenvolvedor full stack com <strong>foco em backend, nuvem e segurança digital</strong>. Tenho um bom domínio em <strong>Python</strong>, com os frameworks Django, Flask, PySide6, <strong>C# / ASP.NET</strong> utilizando API e modelo MVC, <strong>Node.js</strong> com <strong>Express.js</strong>. Atualmente trabalho com <strong>React.js</strong>, <strong>Next.js</strong> e estou buscando me especializar em <strong>Vue.js</strong>. <br><br> Possuo grandes habilidades em <strong>MySQL</strong>, <strong>SQLite</strong> e <strong>SQL</strong>. Possuo também ótimas habilidades com <strong>Docker</strong>, <strong>deploy seguro</strong>, <strong>NGINX</strong>, <strong>Cloudflare</strong> e <strong>otimização de performance</strong> através do CDN. Possuo um grande domínio com <strong>servidores Linux</strong> e <strong>métodos HTTP</strong>. <br><br> <strong>Sou um pentester</strong> com conhecimento e foco em <strong>segurança digital</strong> e <strong>redes</strong>. Possuo <strong>inglês intermediário</strong> e sou apaixonado por tecnologia, estando sempre em busca de me desafiar e me desenvolver cada vez mais na área. 
+Sou um Desenvolvedor full stack com foco em backend, nuvem e segurança digital. Tenho um bom domínio em Python, com os frameworks Django, Flask, PySide6, C# / ASP.NET utilizando API e modelo MVC, Node.js com Express.js. Atualmente trabalho com React.js, Next.js e estou buscando me especializar em Vue.js.
 
+Possuo grandes habilidades em MySQL, SQLite e SQL. Possuo também ótimas habilidades com Docker, deploy seguro, NGINX, Cloudflare e otimização de performance através do CDN. Possuo um grande domínio com servidores Linux e métodos HTTP.
+
+Sou um pentester com conhecimento e foco em segurança digital e redes. Possuo inglês intermediário e sou apaixonado por tecnologia, estando sempre em busca de me desafiar e me desenvolver cada vez mais na área.
 </p>
 
 
