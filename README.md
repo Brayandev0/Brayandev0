@@ -8,11 +8,8 @@
 
 ###
 <p align="left">
-  Desenvolvedor full stack com <strong>foco em backend, infraestrutura e segurança</strong>. Experiente em <strong>Python</strong> (Django, Flask, PySide6), <strong>C# / ASP.NET</strong> (API e modelo MVC), <strong>Node.js</strong> e <strong>Express.js</strong>. Trabalho com <strong>React.js</strong>, <strong>Next.js</strong> e me especializando em <strong>Vue.js</strong>.
-  <br><br>
-  Domínio avançado em <strong>MySQL</strong>, <strong>SQLite</strong> e <strong>SQL</strong>. Especializado em <strong>Docker</strong>, <strong>deploy seguro</strong>, <strong>NGINX</strong>, <strong>Cloudflare</strong> e <strong>otimização de performance</strong>. Experiência sólida com <strong>servidores Linux</strong> e <strong>métodos HTTP</strong>.
-  <br><br>
-  <strong>Pentester</strong> com conhecimento em <strong>segurança da informação</strong> e <strong>redes</strong>. <strong>Inglês intermediário</strong>. Apaixonado por tecnologia e sempre buscando aprender novas metodologias e expandir minhas habilidades.
+Sou um Desenvolvedor full stack com <strong>foco em backend, nuvem e segurança digital</strong>. Tenho um bom domínio em <strong>Python</strong>, com os frameworks Django, Flask, PySide6, <strong>C# / ASP.NET</strong> utilizando API e modelo MVC, <strong>Node.js</strong> com <strong>Express.js</strong>. Atualmente trabalho com <strong>React.js</strong>, <strong>Next.js</strong> e estou buscando me especializar em <strong>Vue.js</strong>. <br><br> Possuo grandes habilidades em <strong>MySQL</strong>, <strong>SQLite</strong> e <strong>SQL</strong>. Possuo também ótimas habilidades com <strong>Docker</strong>, <strong>deploy seguro</strong>, <strong>NGINX</strong>, <strong>Cloudflare</strong> e <strong>otimização de performance</strong> através do CDN. Possuo um grande domínio com <strong>servidores Linux</strong> e <strong>métodos HTTP</strong>. <br><br> <strong>Sou um pentester</strong> com conhecimento e foco em <strong>segurança digital</strong> e <strong>redes</strong>. Possuo <strong>inglês intermediário</strong> e sou apaixonado por tecnologia, estando sempre em busca de me desafiar e me desenvolver cada vez mais na área. 
+
 </p>
 
 
