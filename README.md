@@ -8,15 +8,11 @@
 
 ###
 <p align="left">
-  Sou desenvolvedor full stack com foco em <strong>backend, infraestrutura e segurança</strong>. Tenho ampla experiência com <strong>Python</strong> (Django, Flask, PySide6), <strong>C# / ASP.NET</strong> (API e modelo MVC), <strong>Node.js</strong> e <strong>Express.js</strong>. Também trabalho com <strong>React.js</strong>, <strong>Next.js</strong> e estou me especializando em <strong>Vue.js</strong>, sempre com atenção à performance e boas práticas de desenvolvimento.
+  Desenvolvedor full stack com <strong>foco em backend, infraestrutura e segurança</strong>. Experiente em <strong>Python</strong> (Django, Flask, PySide6), <strong>C# / ASP.NET</strong> (API e modelo MVC), <strong>Node.js</strong> e <strong>Express.js</strong>. Trabalho com <strong>React.js</strong>, <strong>Next.js</strong> e me especializando em <strong>Vue.js</strong>.
   <br><br>
-  Tenho forte domínio em <strong>bancos de dados relacionais</strong> como <strong>MySQL</strong> e <strong>SQLite</strong>, e em ambientes <strong>Dockerizados</strong>, realizando deploys seguros e otimizados. Possuo experiência avançada em <strong>configuração e gerenciamento de servidores Linux</strong>, incluindo <strong>NGINX</strong>, <strong>Cloudflare</strong> e <strong>melhorias de desempenho</strong> em aplicações web.
+  Domínio avançado em <strong>MySQL</strong>, <strong>SQLite</strong> e <strong>SQL</strong>. Especializado em <strong>Docker</strong>, <strong>deploy seguro</strong>, <strong>NGINX</strong>, <strong>Cloudflare</strong> e <strong>otimização de performance</strong>. Experiência sólida com <strong>servidores Linux</strong> e <strong>métodos HTTP</strong>.
   <br><br>
-  Também tenho sólido entendimento dos <strong>métodos HTTP</strong>, <strong>protocolos de rede</strong> e <strong>arquiteturas de APIs REST</strong>, o que me permite desenvolver sistemas robustos e escaláveis. Minha experiência com <strong>pentest</strong> e <strong>segurança da informação</strong> me ajuda a construir aplicações seguras, prevenindo vulnerabilidades e garantindo estabilidade.
-  <br><br>
-  Além do backend, tenho interesse em <strong>automação de processos</strong> e integração de sistemas — como a geração dinâmica de documentos, PDFs e relatórios — sempre buscando soluções eficientes e práticas. Também tenho conhecimento em <strong>hospedagem, otimização de sites</strong> e <strong>infraestrutura em nuvem</strong>, com foco em velocidade e confiabilidade.
-  <br><br>
-  Sou apaixonado por tecnologia e por criar soluções que realmente agregam valor. Tenho <strong>inglês intermediário</strong> e estou sempre estudando novas tecnologias, linguagens e metodologias para aperfeiçoar meu trabalho e expandir minhas habilidades como desenvolvedor.
+  <strong>Pentester</strong> com conhecimento em <strong>segurança da informação</strong> e <strong>redes</strong>. <strong>Inglês intermediário</strong>. Apaixonado por tecnologia e sempre buscando aprender novas metodologias e expandir minhas habilidades.
 </p>
 
 
