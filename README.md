@@ -20,8 +20,9 @@
 
 <!-- ABOUT SECTION -->
 <div align="left">
-  
+<h1 class="text-align:center;">
 ## 🎯 Sobre Mim
+</h1>
 
 </div>
 
