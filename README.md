@@ -7,7 +7,7 @@
 <br/>
 
 <!-- TAGLINE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Construindo+Solu%C3%A7%C3%B5es+Seguras+e+Escal%C3%A1veis;Especialista+em+Backend+%7C+Desenvolvedor+Cloud+Native;Apaixonado+por+Ciberseguran%C3%A7a" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Construindo+Solu%C3%A7%C3%B5es+Seguras+e+Escal%C3%A1veis;Especialista+em+Backend+%7C+Desenvolvedor+Cloud;Apaixonado+por+Ciberseguran%C3%A7a" alt="Typing SVG" />
 
 
 <br/>
