@@ -3,17 +3,16 @@
 <!-- HEADER SECTION -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Brayan%20Vieira%20Silva&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20full%20stack%20%7C%20Pentester%20%7C%20Devops&descAlignY=55&descSize=18"/>
 
-
 <br/>
 
 <!-- TAGLINE -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Construindo+Solu%C3%A7%C3%B5es+Seguras+e+Escal%C3%A1veis;Especialista+em+Backend+%7C+Desenvolvedor+Cloud;Apaixonado+por+Ciberseguran%C3%A7a" alt="Typing SVG" />
 
-
 <br/>
 
 <!-- DIVIDER -->
-<hr style="width: 80%; height: 1px; border: none; background: linear-gradient(90deg, transparent, #4A9EFF, transparent); margin: 40px auto; opacity: 0.8;">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
 <br/>
@@ -39,7 +38,16 @@
   Valorizo práticas de <strong>Clean Code, princípios SOLID</strong> e arquitetura baseada no padrão <strong>REST</strong>. Possuo <strong>inglês em nível intermediário</strong> e estou sempre buscando aprimorar minhas habilidades técnicas e entregar <strong>soluções robustas, escaláveis e bem estruturadas</strong>.
 </p>
 </samp>
+</p>
+
 <br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br/>
+
 <!-- FEATURED PROJECTS -->
 <div align="center">
   
@@ -156,8 +164,10 @@
 
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 <br/>
@@ -207,6 +217,12 @@
 
 <br/>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br/>
+
 <!-- CONTACT SECTION -->
 <div align="center">
   
@@ -229,7 +245,8 @@ ou simplesmente trocar ideias sobre tecnologia e desenvolvimento de software.
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A9EFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
 
 <br/>
+
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
