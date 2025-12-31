@@ -207,20 +207,6 @@
 
 <br/>
 
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<br/>
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<br/>
-
 <!-- CONTACT SECTION -->
 <div align="center">
   
@@ -242,25 +228,9 @@ ou simplesmente trocar ideias sobre tecnologia e desenvolvimento de software.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seudominio.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A9EFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Brayandev0&style=for-the-badge&color=4A9EFF&label=Profile+Views" />
-
-<br/><br/>
-
-<samp>
-💡 <strong>"Building the future, one commit at a time."</strong>
-</samp>
-
+<br/>
 </div>
-
-<br/><br/>
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
 
-<div align="center">
-  
-⭐️ **From [Brayandev0](https://github.com/Brayandev0)** — *Transforming ideas into elegant code*
-
-</div>
