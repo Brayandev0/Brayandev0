@@ -86,11 +86,7 @@
 
 
 
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
 
 
 
@@ -334,12 +330,6 @@
 
 
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
 
 
 <br/>
@@ -349,8 +339,6 @@
 <div align="center">
   
 ## 🛠️ Stack Tecnológico
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -463,78 +451,34 @@
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
 
 <br/>
-
-
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
-
-
-<br/>
-
 
 
 <!-- CONTACT SECTION -->
-
 <div align="center">
-
   
-
 ## 🤝 Vamos Conectar?
 
-
-
 <br/>
-
-
 
 <p>
-
 <samp>
-
 Estou sempre aberto a discutir projetos interessantes, oportunidades de colaboração<br/>
-
 ou simplesmente trocar ideias sobre tecnologia e desenvolvimento de software.
-
 </samp>
-
 </p>
 
-
-
 <br/>
-
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brayandev0)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayandev0)
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seudominio.com)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A9EFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
 
-
-
 <br/>
-
-
 
 </div>
 
-
-
 <!-- FOOTER -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
-
