@@ -27,22 +27,17 @@
 
 <p align="center">
 <samp>
-  <p>
-    Desenvolvedor full stack com <strong>forte expertise em backend, arquitetura cloud e segurança digital</strong>. 
-    Especializado em construir <strong>sistemas robustos, escaláveis e seguros</strong>, com profundo conhecimento em 
-    <strong>infraestrutura, DevOps e práticas de segurança ofensiva</strong>.
-  </p>
-  
-  <p>
-    Experiência comprovada em <strong>deploy seguro, otimização de performance e containerização com Docker</strong>, 
-    além de gerenciamento de <strong>servidores Linux em produção</strong>. Pentester certificado com foco em 
-    <strong>segurança de aplicações web, análise de vulnerabilidades e segurança de redes</strong>.
-  </p>
-  
-  <p>
-    Apaixonado por tecnologia e <strong>desafios técnicos complexos</strong>, sempre buscando 
-    <strong>excelência em engenharia de software</strong> e inovação contínua.
-  </p>
+<p>
+  Sou um desenvolvedor <strong>full stack com foco em backend</strong>. Atualmente trabalho como <strong>freelancer na plataforma Workana</strong>, desenvolvendo <strong>sistemas e APIs</strong> para diferentes empresas e negócios.
+</p>
+
+<p>
+  Possuo experiência com <strong>Python, C#/.NET, JavaScript (Node.js)</strong>, além de frameworks como <strong>Django, Flask, Express.js, ASP.NET Core (API e MVC)</strong> e bibliotecas como <strong>PySide6</strong>. Atuo com <strong>bancos de dados relacionais</strong>, incluindo <strong>MySQL e SQLite</strong>, e possuo conhecimento sólido em <strong>SQL, Docker e fundamentos de redes</strong>. No frontend, trabalho com <strong>Next.js, React, HTML, CSS, Tailwind</strong> e estou em constante evolução em <strong>Vue.js</strong>.
+</p>
+
+<p>
+  Valorizo práticas de <strong>Clean Code, princípios SOLID</strong> e arquitetura baseada no padrão <strong>REST</strong>. Possuo <strong>inglês em nível intermediário</strong> e estou sempre buscando aprimorar minhas habilidades técnicas e entregar <strong>soluções robustas, escaláveis e bem estruturadas</strong>.
+</p>
 </samp>
 
 <div align="center">
