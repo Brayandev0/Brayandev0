@@ -20,6 +20,7 @@
 
 <!-- ABOUT SECTION -->
 <div align="center">
+  
 ## 🎯 Sobre Mim
 
 </div>
