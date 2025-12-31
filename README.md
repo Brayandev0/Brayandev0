@@ -13,7 +13,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<hr style="width: 80%; border: none; border-top: 1px solid #e5e5e5; margin: 20px auto;">
+<hr style="width: 60%; border: none; border-top: 1px solid #e5e5e5; margin: 20px auto;">
 </div>
 
 <br/>
