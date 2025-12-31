@@ -1,3 +1,350 @@
+<div align="center">
+
+  
+
+<!-- HEADER SECTION -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Brayan%20Vieira%20Silva&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20full%20stack%20%7C%20Pentester%20%7C%20Devops&descAlignY=55&descSize=18"/>
+
+
+
+<br/>
+
+
+
+<!-- TAGLINE -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Construindo+Solu%C3%A7%C3%B5es+Seguras+e+Escal%C3%A1veis;Especialista+em+Backend+%7C+Desenvolvedor+Cloud;Apaixonado+por+Ciberseguran%C3%A7a" alt="Typing SVG" />
+
+
+
+<br/>
+
+
+
+<!-- DIVIDER -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+
+
+</div>
+
+
+
+<br/>
+
+
+
+<!-- ABOUT SECTION -->
+
+<div align="center">
+
+  
+
+## 🎯 Sobre Mim
+
+
+
+</div>
+
+
+
+<p align="center">
+
+<samp>
+
+<p>
+
+  Sou um desenvolvedor <strong>full stack com foco em backend</strong>. Atualmente trabalho como <strong>freelancer na plataforma Workana</strong>, desenvolvendo <strong>sistemas e APIs</strong> para diferentes empresas e negócios.
+
+</p>
+
+
+
+<p>
+
+  Possuo experiência com <strong>Python, C#/.NET, JavaScript (Node.js)</strong>, além de frameworks como <strong>Django, Flask, Express.js, ASP.NET Core (API e MVC)</strong> e bibliotecas como <strong>PySide6</strong>. Atuo com <strong>bancos de dados relacionais</strong>, incluindo <strong>MySQL e SQLite</strong>, e possuo conhecimento sólido em <strong>SQL, Docker e fundamentos de redes</strong>. No frontend, trabalho com <strong>Next.js, React, HTML, CSS, Tailwind</strong> e estou em constante evolução em <strong>Vue.js</strong>.
+
+</p>
+
+
+
+<p>
+
+  Valorizo práticas de <strong>Clean Code, princípios SOLID</strong> e arquitetura baseada no padrão <strong>REST</strong>. Possuo <strong>inglês em nível intermediário</strong> e estou sempre buscando aprimorar minhas habilidades técnicas e entregar <strong>soluções robustas, escaláveis e bem estruturadas</strong>.
+
+</p>
+
+</samp>
+
+</p>
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+
+
+<br/>
+
+
+
+<!-- FEATURED PROJECTS -->
+
+<div align="center">
+
+  
+
+## 💎 Projetos em Destaque
+
+
+
+</div>
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+
+
+<div align="center">
+
+  
+
+### 🔐 Security Automation Suite
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Brayandev0)
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Brayandev0)
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Brayandev0)
+
+
+
+</div>
+
+
+
+<br/>
+
+
+
+**Propósito:** Framework automatizado para análise de vulnerabilidades e testes de penetração em ambientes web.
+
+
+
+**Stack:** Python, Flask, Docker, NGINX, PostgreSQL
+
+
+
+**Diferencial:**
+
+• 🎯 Automação inteligente de scans de segurança
+
+• 🔍 Detecção avançada de vulnerabilidades OWASP Top 10
+
+• 📊 Dashboard em tempo real com métricas detalhadas
+
+• 🚀 Deploy containerizado e escalável
+
+
+
+</td>
+
+<td width="50%" valign="top">
+
+
+
+<div align="center">
+
+  
+
+### ⚡ Cloud-Native API Gateway
+
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Brayandev0)
+
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/Brayandev0)
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Brayandev0)
+
+
+
+</div>
+
+
+
+<br/>
+
+
+
+**Propósito:** Gateway de alta performance para microsserviços com autenticação robusta e rate limiting.
+
+
+
+**Stack:** ASP.NET Core, Redis, AWS Lambda, CloudFlare
+
+
+
+**Diferencial:**
+
+• ⚡ Sub-50ms de latência média
+
+• 🔒 Autenticação JWT com refresh tokens
+
+• 🌐 CDN integrado para otimização global
+
+• 📈 Suporte a 10k+ requisições/segundo
+
+
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+
+
+<div align="center">
+
+  
+
+### 🎨 Real-Time Collaboration Platform
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Brayandev0)
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Brayandev0)
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/Brayandev0)
+
+
+
+</div>
+
+
+
+<br/>
+
+
+
+**Propósito:** Plataforma colaborativa em tempo real com sincronização instantânea e interface moderna.
+
+
+
+**Stack:** Next.js, React, Node.js, Socket.io, MongoDB
+
+
+
+**Diferencial:**
+
+• 🔄 Sincronização em tempo real (WebSockets)
+
+• 🎯 Interface intuitiva e responsiva
+
+• 🔐 Criptografia end-to-end
+
+• ⚡ Performance otimizada com SSR e ISR
+
+
+
+</td>
+
+<td width="50%" valign="top">
+
+
+
+<div align="center">
+
+  
+
+### 🛡️ Enterprise Infrastructure Manager
+
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Brayandev0)
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Brayandev0)
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Brayandev0)
+
+
+
+</div>
+
+
+
+<br/>
+
+
+
+**Propósito:** Sistema corporativo para gestão completa de infraestrutura, servidores e recursos em nuvem.
+
+
+
+**Stack:** Django, MySQL, Docker, Celery, Redis
+
+
+
+**Diferencial:**
+
+• 📊 Monitoramento em tempo real de recursos
+
+• 🔧 Automação de deploys e backups
+
+• 🔐 Compliance com normas de segurança
+
+• 📈 Analytics avançado de performance
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+</div>
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+
+
+<br/>
+
+
 <!-- TECH STACK SECTION - VERSÃO FINAL OTIMIZADA -->
 <div align="center">
   
@@ -119,3 +466,75 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
+
+
+<br/>
+
+
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+
+
+<br/>
+
+
+
+<!-- CONTACT SECTION -->
+
+<div align="center">
+
+  
+
+## 🤝 Vamos Conectar?
+
+
+
+<br/>
+
+
+
+<p>
+
+<samp>
+
+Estou sempre aberto a discutir projetos interessantes, oportunidades de colaboração<br/>
+
+ou simplesmente trocar ideias sobre tecnologia e desenvolvimento de software.
+
+</samp>
+
+</p>
+
+
+
+<br/>
+
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brayandev0)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayandev0)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seudominio.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A9EFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
+
+
+
+<br/>
+
+
+
+</div>
+
+
+
+<!-- FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
+
