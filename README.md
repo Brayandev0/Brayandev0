@@ -13,8 +13,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+<hr style="width: 80%; border: none; border-top: 1px solid #e5e5e5; margin: 20px auto;">
 </div>
 
 <br/>
