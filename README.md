@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- HEADER SECTION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Brayan%20Rodrigues&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Security%20Specialist%20%7C%20Cloud%20Architect&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Brayan%20Vieira%20Silva&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Security%20Specialist%20%7C%20Cloud%20Architect&descAlignY=55&descSize=18"/>
 
 <br/>
 
