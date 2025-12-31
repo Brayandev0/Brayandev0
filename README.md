@@ -217,7 +217,7 @@ ou simplesmente trocar ideias sobre tecnologia e desenvolvimento de software.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brayandev0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/brayandev0](https://www.linkedin.com/in/brayan-vieira-081492229/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/brayan-vieira-081492229](https://www.linkedin.com/in/brayan-vieira-081492229/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vieirabrayan42@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A9EFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brayan-dev-five.vercel.app/)
 
