@@ -13,7 +13,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<hr style="width: 60%; border: none; border-top: 1px solid #e5e5e5; margin: 20px auto;">
+<hr style="width: 80%; height: 1px; border: none; background: linear-gradient(90deg, transparent, #4A9EFF, transparent); margin: 40px auto; opacity: 0.8;">
 </div>
 
 <br/>
@@ -232,5 +232,4 @@ ou simplesmente trocar ideias sobre tecnologia e desenvolvimento de software.
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=
