@@ -39,13 +39,7 @@
   Valorizo práticas de <strong>Clean Code, princípios SOLID</strong> e arquitetura baseada no padrão <strong>REST</strong>. Possuo <strong>inglês em nível intermediário</strong> e estou sempre buscando aprimorar minhas habilidades técnicas e entregar <strong>soluções robustas, escaláveis e bem estruturadas</strong>.
 </p>
 </samp>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 <br/>
-
 <!-- FEATURED PROJECTS -->
 <div align="center">
   
