@@ -19,50 +19,31 @@
 <br/>
 
 <!-- ABOUT SECTION -->
-<div align="center">
+<div align="left">
   
 ## 🎯 Sobre Mim
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-```yaml
-role: Full Stack Developer
-specialty: Backend & Cloud Architecture
-security: Penetration Testing
-status: Always Learning & Evolving
-```
-
-</td>
-<td width="50%" valign="top">
-
-```yaml
-experience:
-  - Python (Django, Flask, PySide6)
-  - C# / ASP.NET (API & MVC)
-  - Node.js / Express.js
-  - React.js / Next.js
-  - Vue.js (learning)
-```
-
-</td>
-</tr>
-</table>
-
 <p align="center">
 <samp>
-<br/>
-Desenvolvedor full stack com <strong>forte expertise em backend, arquitetura cloud e segurança digital</strong>. Especializado em construir sistemas robustos, escaláveis e seguros, com profundo conhecimento em infraestrutura, DevOps e práticas de segurança ofensiva.
-<br/><br/>
-Experiência comprovada em <strong>deploy seguro, otimização de performance, containerização com Docker</strong> e gerenciamento de servidores Linux em produção. Pentester certificado com foco em <strong>segurança de aplicações web, redes e análise de vulnerabilidades</strong>.
-<br/><br/>
-Apaixonado por tecnologia e desafios técnicos complexos, sempre buscando <strong>excelência em engenharia de software</strong> e inovação contínua.
-<br/><br/>
+  <p>
+    Desenvolvedor full stack com <strong>forte expertise em backend, arquitetura cloud e segurança digital</strong>. 
+    Especializado em construir <strong>sistemas robustos, escaláveis e seguros</strong>, com profundo conhecimento em 
+    <strong>infraestrutura, DevOps e práticas de segurança ofensiva</strong>.
+  </p>
+  
+  <p>
+    Experiência comprovada em <strong>deploy seguro, otimização de performance e containerização com Docker</strong>, 
+    além de gerenciamento de <strong>servidores Linux em produção</strong>. Pentester certificado com foco em 
+    <strong>segurança de aplicações web, análise de vulnerabilidades e segurança de redes</strong>.
+  </p>
+  
+  <p>
+    Apaixonado por tecnologia e <strong>desafios técnicos complexos</strong>, sempre buscando 
+    <strong>excelência em engenharia de software</strong> e inovação contínua.
+  </p>
 </samp>
-</p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
