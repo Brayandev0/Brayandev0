@@ -19,10 +19,8 @@
 <br/>
 
 <!-- ABOUT SECTION -->
-<div align="left">
-<h1 class="text-align:center;">
+<div align="center">
 ## 🎯 Sobre Mim
-</h1>
 
 </div>
 
