@@ -207,31 +207,6 @@
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<br/>
-
-<!-- GITHUB STATS -->
-<div align="center">
-  
-## 📊 GitHub Analytics
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Brayandev0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Brayandev0&theme=react&hide_border=true&background=0D1117&stroke=4A9EFF&ring=4A9EFF&fire=FF6B6B&currStreakLabel=4A9EFF" />
-
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayandev0&theme=react&hide_border=true&bg_color=0D1117&title_color=4A9EFF&text_color=C9D1D9&layout=compact&langs_count=10&hide=html,css" />
-
-</div>
-
-<br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -239,87 +214,6 @@
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  
-## 📈 Contribution Graph
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-[![Brayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brayandev0&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=4A9EFF&line=4A9EFF&point=FF6B6B)](https://github.com/Brayandev0)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<br/>
-
-<!-- EXPERTISE SECTION -->
-<div align="center">
-  
-## 🎯 Áreas de Expertise
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-  
-### 🔧 Backend Development
-```python
-✓ RESTful API Design
-✓ Microservices Architecture
-✓ Database Optimization
-✓ Async Programming
-✓ Message Queues
-✓ Caching Strategies
-```
-
-</td>
-<td width="33%" align="center">
-  
-### ☁️ Cloud & DevOps
-```yaml
-✓ Docker & Kubernetes
-✓ CI/CD Pipelines
-✓ AWS Services
-✓ Infrastructure as Code
-✓ Monitoring & Logging
-✓ Performance Tuning
-```
-
-</td>
-<td width="33%" align="center">
-  
-### 🛡️ Security & Pentesting
-```bash
-✓ OWASP Top 10
-✓ Network Security
-✓ Vulnerability Assessment
-✓ Secure Coding Practices
-✓ Authentication Systems
-✓ Encryption & Hashing
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
