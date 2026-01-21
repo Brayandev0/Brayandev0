@@ -5,11 +5,6 @@
 <!-- HEADER SECTION -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Brayan%20Vieira%20Silva&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20full%20stack%20%7C%20Pentester%20%7C%20Devops&descAlignY=55&descSize=18"/>
-
-
-
-<br/>
-
 </div>
 
 
