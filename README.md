@@ -6,17 +6,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Brayan%20Vieira%20Silva&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20full%20stack%20%7C%20Pentester%20%7C%20Devops&descAlignY=55&descSize=18"/>
 
-<div style='display: grid; grid-template-columns: 200px; gap: 8px;'>
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brayandev0)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-vieira-081492229/)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vieirabrayan42@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A9EFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brayan-dev-five.vercel.app/)
-
+<div>
+  <a href='https://github.com/Brayandev0'>
+    <img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white' />
+  </a>
+  <a href='https://www.linkedin.com/in/brayan-vieira-081492229/'>
+    <img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' />
+  </a>
+  <a href='mailto:vieirabrayan42@gmail.com'>
+    <img src='https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white' />
+  </a>
+  <a href='https://brayan-dev-five.vercel.app/'>
+    <img src='https://img.shields.io/badge/Portfolio-4A9EFF?style=for-the-badge&logo=google-chrome&logoColor=white' />
+  </a>
 </div>
+
 
 
 <br/>
