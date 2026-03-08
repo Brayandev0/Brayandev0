@@ -35,21 +35,17 @@ galaxy_arms:
       - Flask
       - "ASP.NET Core"
       - Express.js
-      - Pentesting
-      - OWASP
 
   - name: "Frontend & UI"
     color: dendrite_violet       # #b57bee purple-violet
     items:
       - React
       - Next.js
-      - Vue.js
       - TypeScript
       - JavaScript
       - Tailwind CSS
       - HTML5
       - CSS3
-      - PySide6
 
   - name: "DevOps & Data"
     color: axon_amber            # #ffc857 amber-gold
@@ -62,9 +58,6 @@ galaxy_arms:
       - Cloudflare
       - MySQL
       - SQLite
-      - Redis
-      - MongoDB
-      - Bash
 
 # ── Featured Projects ─────────────────────────
 # arm: 0 = Backend & Security | 1 = Frontend & UI | 2 = DevOps & Data
