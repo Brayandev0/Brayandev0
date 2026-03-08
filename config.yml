@@ -1,0 +1,112 @@
+# ─────────────────────────────────────────────
+#  galaxy-profile  ·  config.yml  ·  Brayan Vieira Silva
+# ─────────────────────────────────────────────
+
+username: Brayandev0
+
+# ── Profile ───────────────────────────────────
+profile:
+  name: "Brayan Vieira Silva"
+  tagline: "Full Stack Dev · Pentester · DevOps"
+  company: "Freelancer @ Workana"
+  location: "Brazil"
+  bio: >
+    Backend-focused full stack developer building robust APIs and systems.
+    Passionate about clean architecture, security and scalable solutions.
+  philosophy: "Clean Code · SOLID · REST · Security-first"
+
+# ── Social ────────────────────────────────────
+social:
+  email: "vieirabrayan42@gmail.com"
+  linkedin: "brayan-vieira-081492229"
+  website: "https://brayan-dev-five.vercel.app/"
+
+# ── Galaxy Arms (3 focus areas) ───────────────
+# Each arm gets a color token: synapse_cyan | dendrite_violet | axon_amber
+galaxy_arms:
+
+  - name: "Backend & Security"
+    color: synapse_cyan          # #00f5ff teal-cyan
+    items:
+      - Python
+      - "C# / .NET"
+      - Node.js
+      - Django
+      - Flask
+      - "ASP.NET Core"
+      - Express.js
+      - Pentesting
+      - OWASP
+
+  - name: "Frontend & UI"
+    color: dendrite_violet       # #b57bee purple-violet
+    items:
+      - React
+      - Next.js
+      - Vue.js
+      - TypeScript
+      - JavaScript
+      - Tailwind CSS
+      - HTML5
+      - CSS3
+      - PySide6
+
+  - name: "DevOps & Data"
+    color: axon_amber            # #ffc857 amber-gold
+    items:
+      - Docker
+      - Linux
+      - Git
+      - NGINX
+      - AWS
+      - Cloudflare
+      - MySQL
+      - SQLite
+      - Redis
+      - MongoDB
+      - Bash
+
+# ── Featured Projects ─────────────────────────
+# arm: 0 = Backend & Security | 1 = Frontend & UI | 2 = DevOps & Data
+projects:
+  - repo: "galaxy-profile"
+    arm: 2
+    description: "Animated SVG GitHub profile with galaxy theme"
+
+  - repo: "portfolio"
+    arm: 1
+    description: "Personal portfolio built with Next.js + Tailwind"
+
+  - repo: "api-system"
+    arm: 0
+    description: "REST API with auth, clean architecture & Docker"
+
+# ── Theme overrides (optional) ────────────────
+# Uncomment to override the default deep-space palette
+# theme:
+#   background:     "#0d0d1a"
+#   core_glow:      "#00f5ff"
+#   star_primary:   "#ffffff"
+#   arm_0:          "#00f5ff"    # synapse_cyan
+#   arm_1:          "#b57bee"    # dendrite_violet
+#   arm_2:          "#ffc857"    # axon_amber
+#   text_primary:   "#e8eaf6"
+#   text_secondary: "#8892b0"
+#   card_bg:        "#111128"
+#   card_border:    "#1e2040"
+
+# ── Stats ─────────────────────────────────────
+stats:
+  metrics:
+    - commits
+    - stars
+    - prs
+    - issues
+    - repos
+
+# ── Languages ────────────────────────────────
+languages:
+  exclude:
+    - Jupyter Notebook
+    - Shell
+  max_display: 6
