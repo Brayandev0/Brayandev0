@@ -29,23 +29,25 @@
 <br/>
 
 <details>
-<summary><strong>More about me</strong></summary>
+<summary><strong>Mais sobre mim</strong></summary>
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Atua no mercado ha 2 anos como programador freelancer e como chefe de desenvolvimento na createc, empresa em que criei e administro desde 2025, realizando servicos e vendendo software sob demanda, estou sempre aberto a novas oportunidades e projetos 
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Atualmente trabalhando em** Createc - Uberlândia, Minas Gerais
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="mailto:vieirabrayan42@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="www.linkedin.com/in/brayan-vieira-081492229">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+    <a href="https://api.whatsapp.com/send/?phone=%2B5534984180453&text&type=phone_number&app_absent=0">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" alt="Whatsapp"/>
   </a>
 </div>
