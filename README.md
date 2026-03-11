@@ -33,8 +33,7 @@
 
 <br/>
 
-Atua no mercado ha 2 anos como programador freelancer e como chefe de desenvolvimento na createc, empresa em que criei e administro desde 2025, realizando servicos e vendendo software sob demanda, estou sempre aberto a novas oportunidades e projetos 
-
+Atuo no mercado há 2 anos como programador freelancer e como chefe de desenvolvimento na Createc, empresa que criei e administro desde 2025, realizando serviços e desenvolvendo software sob demanda. Estou sempre aberto a novas oportunidades e projetos.
 **Atualmente trabalhando em** Createc - Uberlândia, Minas Gerais
 </details>
 
